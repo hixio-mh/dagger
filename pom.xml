@@ -42,9 +42,13 @@
 
     <!-- Compilation -->
     <java.version>1.6</java.version>
-    <javax.inject.version>1</javax.inject.version>
+    <javax.inject.version>1</javax.inject.version> 
+    snyk-upgrade-5d91ddab827e13174503396cc3e316dd
+    <javapoet.version>1.7.0</javapoet.version>
+    <guava.version>30.0-jre</guava.version>
     <javapoet.version>1.13.0</javapoet.version>
     <guava.version>19.0</guava.version>
+master
 
     <!-- Test Dependencies -->
     <junit.version>4.13.1</junit.version>
